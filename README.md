@@ -1,2 +1,7 @@
-# demo-estudio-juridico-dr-karlikowski-asoc
-Demo web para Estudio Jurídico Dr. karlikowski &amp; Asoc. — diseñada por eterlab.
+# Estudio Jurídico Dr. karlikowski & Asoc.
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
